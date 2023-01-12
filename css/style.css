@@ -8,8 +8,8 @@ body {
     width: 970px;
 }
 .header {
-    display: block;
-    margin: 0 236px;
+ 
+    margin: 0 auto;
     width: 970px;
     max-width: 100%;
 }
@@ -76,7 +76,7 @@ h1 {
     margin: 0 auto;
     background-color: #E5E5E5;
     height: 500px;
-    width: 970px;
+    width: 100%;
 
 }
 .about h2 {
@@ -88,7 +88,7 @@ h1 {
     font-size: 34px;
 }
 .abouttxt {
-    margin: 95px 240px 50px 240px;
+    margin: 0 auto;
     width: 480px;
     margin-top: 50px;
 }
@@ -133,7 +133,7 @@ h1 {
     margin: 0 auto;
     background-color:#E5E5E5;
     height: 2315px;
-    width: 1440px;
+    width: 100%;
 }
 
 .portfolio h2 {
